@@ -1,0 +1,44 @@
+.ArkaPlan
+{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(186, 127, 186);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kart{
+    background-color: rgb(244, 204, 238);
+    width: 600px;
+    height: 700px;
+    margin:auto;
+    border-radius: 15px;
+    padding: 30px;
+    
+}
+.baslik{
+    text-align: center;
+    margin-top: 30px;
+    color: rgb(117, 80, 117);
+
+}
+
+.resim{
+    width: 100px;
+    border-radius: 200px;
+    transition: 0.5s;
+}
+
+.resim:hover{
+border-radius: 10px;
+width: 150px;
+}
+
+a{
+    color: rgba(162, 19, 198, 0.511); 
+}
+
+a:hover{
+    color: rgb(107, 14, 214); 
+}
