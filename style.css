@@ -10,9 +10,8 @@
 
 .kart{
     background-color: rgb(244, 204, 238);
-    width: 570px;
-    height: 690px;
-    margin:auto;
+    width: auto;
+    height: auto;
     border-radius: 15px;
     padding: 30px;
     
